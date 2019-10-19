@@ -2,8 +2,8 @@
  
  */
 module.exports = {
-	title: 'DIENS SWAKARYA INDONESIA',
-	description: 'Foundry & Special Purpose Material, Machine Manufacturing',
+	title: 'Diens Swakarya Indonesia',
+	description: 'Foundry, Special Purpose Material and Machine Manufacturing',
 	head: [
 		['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
 		['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
